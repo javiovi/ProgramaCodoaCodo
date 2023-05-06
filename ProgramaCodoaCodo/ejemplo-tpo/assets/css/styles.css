@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Pixels&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+@import 'partials/_general.css';
+@import 'partials/_header.css';
+@import 'partials/_main.css';
+@import 'partials/_footer.css';
